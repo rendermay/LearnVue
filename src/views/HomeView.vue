@@ -1,10 +1,12 @@
-<script setup>
-// import TheWelcome from '../components/TheWelcome.vue'
-</script>
-
 <template>
-  <main>
-    <TheWelcome />
-    <div>网站首页</div>
-  </main>
+  <div class="home">
+    网站首页
+  </div>
 </template>
+<style scoped>
+  div.home{
+    padding: 50px;
+    background-color: olivedrab;
+    font-size: larger;
+  }
+</style>
