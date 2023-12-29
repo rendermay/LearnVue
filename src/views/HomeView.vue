@@ -8,5 +8,8 @@
     padding: 50px;
     background-color: olivedrab;
     font-size: larger;
+    font-style: italic;
+    color: #000;
+    margin-top: 5px;
   }
 </style>

@@ -7,5 +7,9 @@
   div.usermanager{
     padding: 50px;
     background-color: yellowgreen;
+    color: #000;
+    font-style: italic;
+    margin-top: 5px;
+
   }
 </style>

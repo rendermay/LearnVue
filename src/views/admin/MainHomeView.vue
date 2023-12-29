@@ -7,5 +7,9 @@
   div.admin{
     padding: 50px;
     background-color: blueviolet;
+    color: #000;
+    font-style: italic;
+    margin-top: 5px;
+
   }
 </style>

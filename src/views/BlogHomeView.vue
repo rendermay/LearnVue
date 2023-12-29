@@ -7,6 +7,10 @@
   div.blog{
     padding: 50px;
     background-color: gold;
+    color: #000;
+    font-style: italic;
+    margin-top: 5px;
+
   }
 </style>
 
